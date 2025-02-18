@@ -1,4 +1,4 @@
-# AutoRecycler
+# iRecycle
 
 ## Overview  
  By utilizing a TensorFlow model and OpenAI API, the program identifies objects from images and provides recycling information.
